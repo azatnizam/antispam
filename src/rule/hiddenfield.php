@@ -5,7 +5,7 @@ class HiddenField implements IRule
 {
     private $form;
 
-    public function setForm(\Antispam\Form $form): self
+    public function setForm(\Azatnizam\Antispam\Form $form): self
     {
         $this->form = $form;
         return $this;
