@@ -1,0 +1,18 @@
+{
+    "name": "azatnizam/antispam",
+    "description": "Clearing spam by behavior of bots",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Azat Nizameev",
+            "email": "azat.nizam@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Azatnizam\\Antispam\\": "src/"
+        }
+    }
+}
