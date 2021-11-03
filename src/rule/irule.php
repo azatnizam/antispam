@@ -1,9 +1,9 @@
 <?php
-namespace Antispam\Rule;
+namespace Azatnizam\Antispam\Rule;
 
 interface IRule
 {
-    public function setForm(\Antispam\Form $form);
+    public function setForm(\Azatnizam\Antispam\Form $form);
 
     public function check(): bool;
 }
