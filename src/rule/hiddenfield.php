@@ -1,5 +1,5 @@
 <?php
-namespace Antispam\Rule;
+namespace Azatnizam\Antispam\Rule;
 
 class HiddenField implements IRule
 {
