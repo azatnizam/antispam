@@ -1,5 +1,5 @@
 <?php
-namespace Antispam;
+namespace Azatnizam\Antispam;
 
 class Form
 {
